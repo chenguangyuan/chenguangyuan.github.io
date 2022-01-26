@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-01-26T07:14:23.464Z</updated>
+  <updated>2022-01-26T08:38:50.098Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,24 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>test2</title>
+    <link href="http://example.com/2022/01/26/test1/"/>
+    <id>http://example.com/2022/01/26/test1/</id>
+    <published>2022-01-26T08:38:46.000Z</published>
+    <updated>2022-01-26T08:38:50.098Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>test1</title>
     <link href="http://example.com/2022/01/26/test1-1/"/>
     <id>http://example.com/2022/01/26/test1-1/</id>
-    <published>2022-01-26T07:10:23.000Z</published>
-    <updated>2022-01-26T07:14:23.464Z</updated>
+    <published>2022-01-26T07:10:00.000Z</published>
+    <updated>2022-01-26T08:38:37.686Z</updated>
     
     <content type="html"><![CDATA[<p>喜欢第一</p>]]></content>
     
@@ -34,6 +47,14 @@
     
     
     
+    <category term="category1" scheme="http://example.com/categories/category1/"/>
+    
+    <category term="category2" scheme="http://example.com/categories/category1/category2/"/>
+    
+    
+    <category term="tag1" scheme="http://example.com/tags/tag1/"/>
+    
+    <category term="tag2" scheme="http://example.com/tags/tag2/"/>
     
   </entry>
   
