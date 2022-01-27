@@ -105,7 +105,7 @@
     <link href="http://example.com/2022/01/26/test1-1/"/>
     <id>http://example.com/2022/01/26/test1-1/</id>
     <published>2022-01-26T07:10:00.000Z</published>
-    <updated>2022-01-26T09:42:52.702Z</updated>
+    <updated>2022-01-27T03:36:58.869Z</updated>
     
     <content type="html"><![CDATA[<p>喜欢第一</p>]]></content>
     
@@ -118,16 +118,14 @@
     
     
     
+    <category term="category1" scheme="http://example.com/categories/category1/"/>
+    
+    <category term="category2" scheme="http://example.com/categories/category1/category2/"/>
+    
     
     <category term="tag1" scheme="http://example.com/tags/tag1/"/>
     
     <category term="tag2" scheme="http://example.com/tags/tag2/"/>
-    
-    <category term="[object Object]" scheme="http://example.com/tags/object-Object/"/>
-    
-    <category term="category1" scheme="http://example.com/tags/category1/"/>
-    
-    <category term="category2" scheme="http://example.com/tags/category2/"/>
     
   </entry>
   
